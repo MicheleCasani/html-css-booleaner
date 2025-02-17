@@ -1,0 +1,10 @@
+*{ padding: 0; margin: 0; box-sizing: border-box; }
+
+/* logo booleaner */
+header{background-color: rgb(88, 141, 255);
+background-image: url("../img/pattern.png");
+background-size: 400px;}
+/* cambio colore "the booleaner" */
+.color-blue{color:rgb(14, 147, 236);}
+/* cambio dimensione font */
+.ciao{font-size: 9px;}
