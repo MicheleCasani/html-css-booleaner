@@ -28,14 +28,18 @@ h3{color: grey;}
 /* cambio altezza */
 .logo{ height: 50px;}
 /* immagine potrebbe interessarti 1 */
-.margine2{padding-top: 2%;
+.immagine1{padding-top: 2%;
 color: white;
 background-image: url(../img/monitor.jpg);
-width: 280px; height: 200px;
+width: 270px; height: 200px;
 margin-top: 1%;}
 /* immagine potrebbe interessarti 2 */
-.margine3{padding-top: 2%;
+.immagine2{padding-top: 2%;
     color: white;
     background-image: url(../img/graph.jpg);
-    width: 280px; height: 200px;
+    width: 270px; height: 200px;
     margin-top: 1%;}
+    .grey{color: grey;}
+    .grey2{color: grey;
+    font-size: 80%;}
+    
