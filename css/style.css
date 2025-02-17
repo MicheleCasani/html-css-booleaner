@@ -1,9 +1,8 @@
 *{ padding: 0; margin: 0; box-sizing: border-box; }
-
 /* logo booleaner */
 header{background-color: rgb(88, 141, 255);
 background-image: url("../img/pattern.png");
-background-size: 400px;}
+background-size: 150px;}
 /* cambio colore "the booleaner" */
 .color-blue{color:rgb(14, 147, 236);}
 /* cambio dimensione font */
@@ -24,3 +23,19 @@ ul{padding-left: 2%;}
 thead{color: white;}
 /* sonfo tabella */
 .sfondo-tabella{background-color: rgb(166, 197, 243);}
+/* colore h3 */
+h3{color: grey;}
+/* cambio altezza */
+.logo{ height: 50px;}
+/* immagine potrebbe interessarti 1 */
+.margine2{padding-top: 2%;
+color: white;
+background-image: url(../img/monitor.jpg);
+width: 280px; height: 200px;
+margin-top: 1%;}
+/* immagine potrebbe interessarti 2 */
+.margine3{padding-top: 2%;
+    color: white;
+    background-image: url(../img/graph.jpg);
+    width: 280px; height: 200px;
+    margin-top: 1%;}
