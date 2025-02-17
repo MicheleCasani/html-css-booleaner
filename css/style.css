@@ -7,4 +7,20 @@ background-size: 400px;}
 /* cambio colore "the booleaner" */
 .color-blue{color:rgb(14, 147, 236);}
 /* cambio dimensione font */
-.ciao{font-size: 9px;}
+.ciao{font-size: 12px;}
+/* margine */
+.margine{padding-top: 2%;}
+/* sonfo giallo */
+.sfondo-giallo{background-color: yellow;}
+/* padding elenco puntato */
+ul{padding-left: 2%;}
+/* padding tabella */
+.tabella1{ width:25%;}
+/* tabella2 */
+.tabella2{ width:50%;}
+/* sfondo tabella intestazione*/
+.intestazione{background-color: rgb(104, 104, 236);}
+/* cambio colore intestazione */
+thead{color: white;}
+/* sonfo tabella */
+.sfondo-tabella{background-color: rgb(166, 197, 243);}
