@@ -1,0 +1,53 @@
+*{ padding: 0; margin: 0; box-sizing: border-box; }
+/* logo booleaner */
+header{background-color: rgb(88, 141, 255);
+background-image: url("../img/pattern.png");
+background-size: 150px;}
+/* cambio colore "the booleaner" */
+.color-blue{color:rgb(14, 147, 236);}
+/* cambio dimensione font */
+.ciao{font-size: 12px;}
+/* margine */
+.margine{padding-top: 2%;
+width: 80%;
+margin: 0 auto;}
+/* sonfo giallo */
+.sfondo-giallo{background-color: yellow;}
+/* padding elenco puntato */
+ul{padding-left: 2%;}
+/* padding tabella */
+.tabella1{ width:25%;}
+/* tabella2 */
+.tabella2{ width:50%;}
+/* sfondo tabella intestazione*/
+.intestazione{background-color: rgb(104, 104, 236);}
+/* cambio colore intestazione */
+thead{color: white;}
+/* sonfo tabella */
+.sfondo-tabella{background-color: rgb(166, 197, 243);}
+/* colore h3 */
+h3{color: grey;}
+/* cambio altezza */
+.logo{ height: 50px;}
+/* immagine potrebbe interessarti 1 */
+.immagine1{padding-top: 2%;
+color: white;
+background-image: url(../img/monitor.jpg);
+width: 270px; height: 200px;
+margin-top: 1%;
+padding: 10px;
+font-size: 130%;}
+/* immagine potrebbe interessarti 2 */
+.immagine2{padding-top: 2%;
+    color: white;
+    background-image: url(../img/graph.jpg);
+    width: 270px; height: 200px;
+    margin-top: 1%;
+    padding: 10px;
+    font-size: 130%}
+    /* aggiustamento colore "scritto da */
+.grey{color: grey;}
+/* aggiustamento colore scritta data */
+    .grey2{color: grey;
+    font-size: 80%
+    ;}
